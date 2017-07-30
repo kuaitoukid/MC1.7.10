@@ -1,0 +1,151 @@
+########################################
+##             Changelog              ##
+########################################
+
+//// v6.5.56 ////
+
+  - Fixed invalid program final
+
+  Known bugs:
+  - Raindrops aren't rendered on water surfaces
+  - No atmospheric scattering in the reflections
+  - Shading behind the hand while holding translucent blocks are wrong
+  - Translucent blocks aren't rendered behind water
+  - End portal is broken (unfixable right now)
+
+/////////////////
+
+
+
+//// v6.5.55 ////
+
+   - Stronger sunlight
+   - New watercolor
+   - New sun shape
+   - Improved bloom threshold for better contrast
+   - New water waves
+   - Added water parallax
+   - New clouds
+   - New skycolors
+   - New fogcolors
+   - Improved sky gradient
+   - Better water depth
+   - Fixed minimum wetness
+   - Improved transition between day and night
+   - Fixed color banding (Thanks to Jodie)
+   - Corrected lightmaps
+   - Added distanceBlur to Cinematic profile
+   - Fixed chromatic aberration for depth of field
+   - Improved dirty lens
+   - Added support for blindness and night vision
+   - Backwards compatibility (GLSL version 1.20)
+   - Minimum light can be controlled in Options -> Video Settings -> Brightness (screenBrightness)
+   - Added option fixUndergroundShadows
+   - Improved anamorphic lens
+
+/////////////////
+
+
+
+//// v6.5.26 ////
+
+  - Higher cloud opacity
+  - Removed "nPuddles" which probably caused issues with rain puddles
+  - YCoCg compression can be disabled due armor glint issues ( I did this because I saw Gronkh's livestream x) )
+  - Water is also affected by windSpeed
+  - Fixed water animation suddenly stops
+  - Other minor fixes..
+
+/////////////////
+
+
+//// v6.5.24 ////
+
+ - Added option "airDensity"
+ - Improved shading for default clouds
+ - Added weather controls
+ - Added glowing eyes
+ - Added more controls for blur effects
+ - Darker sky when cloudy
+ - Better control of cloud opacity
+ - More noticeable chromatic aberration
+ - Higher noise resolution for camera noise
+ - Fogcolor underwater get's adjusted by a eyeBrightnessSmooth
+ - Proper fog rendering on water surfaces and behind hand
+ - Added option "waterShader"
+ - Lower AO level
+ - Stars will disappear while it's cloudy
+ - Improved sky gradient
+ - New tonemapping (Thanks to robobo1221)
+ - Rain puddles are longer visible after raining
+ - Applied maximum color range
+ - New bloom (Thanks to Capt Tatsu)
+ - Fixed displacement bug for POM (Thanks to Strum355)
+ - Moved raindrops to forwarded rendering
+ - Raindrops are affected by the torchlight
+ - Improved anamorphic lens
+ - Rewrote dirty lens
+ - Higher color precision
+ - Added possibility to use Distance Blur only
+ - Removed SSAO because of performance issues
+ - Replaced godrays by volumetric light
+ - Added specular mapping
+ - New rain puddles with animation
+ - Warmer colors
+ - Fixed hand depth when DOF is enabled
+ - Improved depth of field
+ - Better control of minimum light
+ - Improved lowlight eye
+ - Improved shaking camera movement
+ - Fixed motionblur glitch
+ - Added torchlight control
+ - Better fake reflections in empty spaces
+ - Added YCoCg compression (http://graphics.cs.aueb.gr/graphics/docs/papers/YcoCgFrameBuffer.pdf)
+ - Improved movement for windyTerrain
+
+/////////////////
+
+
+//// v6.4.80 ////
+
+ - Fixed issues with translucent blocks on NVIDIA cards
+ - Improved dynamic weather
+ - Added an extra menu for dynamic weather for more controls
+ - Removed reflections and refraction for the Nether portal
+ - Better material detection of the hand in first person view
+ - Fog blur can be disabled
+
+/////////////////
+
+
+//// v6.4.77 ////
+
+ - New tonemapping for brighter colors and better color grading
+ - Replaced old clouds with new less FPS heavy cirrus clouds
+ - Better sky gradient
+ - Added fog blur to the Nether
+ - Brighter fog in Nether
+ - New fog colors
+ - Added jitter effect back to the End
+ - Added option "normalMapStrength"
+ - Readded SSAO
+ - Added attribute "ambientOcclusionLevel"
+ - Readded Parallax Occlusion Mapping
+ - Brighter ambient colors
+ - Added atmospheric scattering
+ - Tonemapping can be customized in the shader options
+ - Added water caustics
+ - New water waves
+ - Proper and better reflections
+ - Fixed shading on nether portal
+ - Proper water waves on vertical surfaces
+ - Reflections and refraction on nether portal
+ - Fixed broken water refraction when using a resource pack with normal map support
+ - Reflective blocks aren't fully reflective anymore
+ - Added heatwave in Nether
+ - Variable "shadowAcneFixMul" will be adjusted automatically, depending on the shadow map resolution
+ - Rain puddles can be disabled
+ - Added a better moon shape
+ - Stronger fog at sunrise
+
+/////////////////

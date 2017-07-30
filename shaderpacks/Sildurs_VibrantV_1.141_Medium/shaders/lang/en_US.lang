@@ -1,0 +1,124 @@
+# Change effect names through language instead of the shader itself
+# How to change names and comments:
+# option.EffectName=New effect name
+# option.EffectName.comment=Your comment.
+#
+# Change screen names through language instead of properties
+# How to change screen names and give them comments:
+# screen.ScreenName=New screen name
+# screen.ScreenName.comment=Your comment
+#
+# Tooltip lines ending with "!" are automatically shown red.
+# example: option.SHADOW_FILTER.comment=Smooth out shadows. Very small performance hit!.
+
+
+#composite.fsh
+option.EmissiveLightStrength=Lighting strength
+option.EmissiveLightStrength.comment=Adjust the lighting strength of emissive blocks, like torches.
+
+option.Sunlightamount=Sunlightamount
+option.Sunlightamount.comment=10,50,200
+
+option.Shadow_Filter=Shadow Filter
+option.Shadow_Filter.comment=Smooth out edges of shadows. §cVery low performance impact.
+
+option.shadowMapResolution=Shadows resolution
+option.shadowMapResolution.comment=Change the shadows resolution.
+
+option.shadowDistance=Shadows view distance
+option.shadowDistance.comment=Change the view distance of shadows.
+
+option.Dynamic_Handlight=Dynamic Handlight
+option.Dynamic_Handlight.comment=Items like torches emit light while holding them in your hand. §cNo performance impact.
+
+option.Godrays=Godrays
+option.Godrays.comment=Makes the sun casts rays. §4Requires sun effects to be enabled. §cLow performance impact.
+
+option.Celshading=Celshading
+option.Celshading.comment=Applies black lines on everything making it look cartoony, similar to borderlands. §cVery low perfomance impact.
+
+option.SSAO=Ambient Occlusion
+option.SSAO.comment=Makes lighting more realistic. §cHigh performance impact.
+
+#composite.vsh
+option.Moonlight=Moonlight
+option.Moonlight.comment=Adjust brightness during night time.
+#----------------------------------------------------
+
+#final.fsh
+option.Sun_Effects=Sun Effects
+option.Sun_Effects.comment=§4Has to be enabled in order to make use of Godrays, Lens flares and Raindrops.
+
+option.Rain_Drops=Rain Drops
+option.Rain_Drops.comment=Enables rain drops on screen during raining. §4Requires sun effects to be enabled. §cLow performance impact.
+
+#Godrays from composite.fsh
+#Defined variables from final.fsh
+option.Godrays_Density=Godrays density
+option.Godrays_Density.comment=Changes the amount of sunrays.
+option.Godrays_Quality=Godrays quality
+option.Godrays_Quality.comment=Changes the quality of sunrays.
+
+option.Lens_Flares=Lens Flares
+option.Lens_Flares.comment=Emulates camera lens effects. §4Requires sun effects to be enabled. §cLow performance impact.
+option.Lens_Flares_Strength=Lens Flares strength
+option.Lens_Flares_Strength.comment=Changes the strength of lens flares.
+
+option.Bloom=Bloom
+option.Bloom.comment=Adds a glowing effect to emissive blocks. §cMedium performance impact.
+option.blur_amount=Blur amount
+option.blur_amount.comment=Change the amount of blur, this does also affect the strength of bloom. Lower values mean more blur and thus stronger bloom. Higher values mean less blur and thus weaker bloom.
+
+option.Depth_of_Field=Depth of Field
+option.Depth_of_Field.comment=Simulates eye focusing on objects. §cLow performance impact
+option.DoF_Strength=Dof strength
+option.DoF_Strength.comment=Changes the strength of the blurring effect.
+
+option.Distance_Blur=Distance Blur
+option.Distance_Blur.comment=§4Requires Depth of Field to be enabled. Replaces eye focusing effect with distance being blurred instead.
+
+option.Motionblur=Motionblur
+option.Motionblur.comment=Blurres your view/camera during movemenent. Doesn't work well with Depth of Field. §cLow performance impact
+#----------------------------------------------------
+
+#gbuffers_terrain.vsh
+option.Waving_Leaves=Waving Leaves
+option.Waving_Leaves.comment=
+
+option.Waving_Vines=Waving Vines
+option.Waving_Vines.comment=
+
+option.Waving_Grass=Waving Grass
+option.Waving_Grass.comment=Does not include tallgrass due some issues with it.
+
+option.Waving_Fire=Waving Fire
+option.Waving_Fire.comment=
+
+option.Waving_Lava=Waving Lava
+option.Waving_Lava.comment=
+
+option.Waving_Lilypad=Waving Lilypad
+option.Waving_Lilypad.comment=
+
+option.Waving_Entities=Waving Entities
+option.Waving_Entities.comment=Includes: Saplings, small flowers, wheat, carrots and potatoes.
+#----------------------------------------------------
+
+#Screens
+#final.fsh
+screen.BLOOM_SCREEN=Bloom
+screen.BLOOM_SCREEN.comment=Change things related to Bloom.
+screen.DOF_SCREEN=Depth of field
+screen.DOF_SCREEN.comment=Change things related to Depth of Field.
+
+screen.SUN_SCREEN=Sun Effects
+screen.SUN_SCREEN.comment=Contains sun related effects like Godrays, Lens flares and Raindrops.
+#----------------------------------------------------
+#composite.fsh/vsh
+screen.SHADOWS_SCREEN=Shadows
+screen.SHADOWS_SCREEN.comment=Change shadow related settings like resolution and view distance.
+#----------------------------------------------------
+#gbuffers_terrain.vsh
+screen.WAVING_SCREEN=Waving objects
+screen.WAVING_SCREEN.comment=Contains grass, wheat, leaves etc.
+#----------------------------------------------------
