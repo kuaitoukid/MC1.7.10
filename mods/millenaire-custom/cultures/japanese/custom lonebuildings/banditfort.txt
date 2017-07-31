@@ -1,0 +1,44 @@
+name:Zokuto no Bakusha
+carriesraid:true
+
+mindistancefromspawn:1000
+
+weight:10
+radius:50
+biome:extreme hills
+biome:foresthills
+biome:forest
+biome:taiga
+
+biome:Dead Forest
+biome:Mountain
+biome:Rainforest
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Tropics
+biome:Wetland
+biome:Bamboo Forest
+biome:Cherry Blossom Grove
+biome:Frost Forest
+biome:Maple Woods
+biome:Seasonal Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+
+//starting buildings:
+centre:banditfort

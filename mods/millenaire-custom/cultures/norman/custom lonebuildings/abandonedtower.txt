@@ -1,0 +1,63 @@
+name:Tour abandonnée
+weight:10
+radius:10
+
+biome:forest
+biome:plains
+biome:taiga
+biome:extreme hills
+biome:foresthills
+
+//extraBiomes mod
+biome:forested island
+biome:autumn woods
+biome:green hills
+biome:forested hills
+
+//biomes o plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Highland
+biome:Moor
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Glacier
+biome:Icy Hills
+biome:Lush Desert
+biome:Mesa
+biome:Sacred Springs
+biome:Shield
+biome:Crag
+biome:Volcano
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Wetland
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Maple Woods
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+
+//starting buildings:
+centre:abandonedtower

@@ -1,0 +1,17 @@
+name:Adivasi ka Ghar
+weight:20
+radius:35
+biome:swampland
+//extraBiomes mod
+biome:lush swamplands
+
+biome:Bayou
+biome:Bog
+biome:Dead Swamp
+biome:Wetland
+
+//starting buildings:
+centre:adivasifarm
+
+start:paddy
+start:spicegarden

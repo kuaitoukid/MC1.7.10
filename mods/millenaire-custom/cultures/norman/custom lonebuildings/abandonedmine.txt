@@ -1,0 +1,42 @@
+name:Tour de l'Achimiste
+weight:10
+radius:15
+biome:extreme hills
+biome:ice mountains
+biome:Extreme Hills Edge
+
+//biomes o plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Highland
+biome:Moor
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Glacier
+biome:Icy Hills
+biome:Lush Desert
+biome:Mesa
+biome:Sacred Springs
+biome:Shield
+biome:Crag
+biome:Volcano
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Wetland
+biome:Scrubland
+biome:Tundra
+biome:Extreme Hills (New)
+biome:Jade Cliffs
+
+max:1
+keyLoneBuildingGenerateTag:alchemist_tower_generate
+
+mindistancefromspawn:1000
+
+//starting buildings:
+centre:alchemisttower

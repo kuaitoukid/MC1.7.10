@@ -1,0 +1,62 @@
+name:Chota Mandir
+weight:5
+radius:12
+biome:extreme hills
+biome:forest
+biome:foresthills
+biome:deserthills
+biome:desert
+
+biome:Dead Forest
+biome:Mountain
+biome:Rainforest
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Tropics
+biome:Lush Desert
+biome:Mesa
+biome:Tundra
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Dead Forest (Snow)
+biome:Extreme Hills (New)
+biome:Glacier
+biome:Highland
+biome:Icy Hills
+biome:Jade Cliffs
+biome:Moor
+biome:Sacred Springs
+biome:Scrubland
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Maple Woods
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+biome:Wetland
+biome:Woodland
+biome:Desert
+biome:Dunes
+biome:Oasis
+biome:Steppe
+biome:Wasteland
+
+//starting buildings:
+centre:loneshrine

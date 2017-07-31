@@ -1,0 +1,55 @@
+name:Muul
+weight:4
+radius:15
+
+mindistancefromspawn:1000
+
+biome:forest
+biome:swampland
+biome:foresthills
+
+//extraBiomes mod
+biome:lush swamplands
+biome:rainforest
+biome:jungle
+
+biome:Wetland
+biome:Temperate Rainforest
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Mountain
+biome:Rainforest
+biome:Redwood Forest
+biome:Thicket
+biome:Tropics
+biome:Deciduous Forest
+biome:Grove
+biome:Mystic Grove
+biome:Tropical Rainforest
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Hot Springs
+biome:Maple Woods
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Moor
+biome:Grassland
+biome:Outback
+biome:Dead Swamp
+biome:Lush Swamp
+biome:Marsh
+biome:Sludgepit
+
+//starting buildings:
+centre:lonemayanpyramid

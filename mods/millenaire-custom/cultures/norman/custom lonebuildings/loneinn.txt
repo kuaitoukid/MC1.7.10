@@ -1,0 +1,78 @@
+namelist:loneinns
+name:Auberge isolée
+weight:10
+radius:15
+biome:extreme hills
+biome:river
+biome:plains
+biome:forest
+
+//extraBiomes mod
+biome:autumn woods
+biome:green hills
+biome:forested hills
+
+//biomes o plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Wetland
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Maple Woods
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+biome:Highland
+biome:Moor
+biome:Scrubland
+biome:Tundra
+biome:Shield
+biome:Arctic
+biome:Dunes
+biome:Field
+biome:Garden
+biome:Grassland
+biome:Heathland
+biome:Oasis
+biome:Outback
+biome:Pasture
+biome:Prairie
+biome:Quagmire
+biome:Savanna
+biome:Shrubland
+biome:Steppe
+biome:Wasteland
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Glacier
+biome:Icy Hills
+biome:Lush Desert
+biome:Mesa
+biome:Sacred Springs
+biome:Extreme Hills (New)
+biome:Jade Cliffs
+
+//starting buildings:
+centre:loneinn

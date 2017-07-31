@@ -1,0 +1,51 @@
+name:Meunier solitaire
+weight:10
+radius:15
+biome:river
+biome:forest
+biome:plains
+biome:foresthills
+
+//extraBiomes mod
+biome:forested hills
+biome:autumn woods
+biome:green hills
+
+//biomes o plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Wetland
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Maple Woods
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+biome:Highland
+biome:Moor
+biome:Scrubland
+biome:Tundra
+
+//starting buildings:
+centre:lonemill

@@ -1,0 +1,43 @@
+name:Repère de bandits
+weight:10
+radius:10
+carriesraid:true
+
+mindistancefromspawn:600
+
+biome:forest
+biome:taiga
+biome:foresthills
+biome:taigahills
+
+//extraBiomes mod
+biome:snow forest
+biome:taiga mountain
+
+//Biomes O Plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Wetland
+biome:Highland
+biome:Moor
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Glacier
+biome:Icy Hills
+biome:Lush Desert
+biome:Mesa
+biome:Sacred Springs
+biome:Scrubland
+biome:Tundra
+biome:Extreme Hills (New)
+biome:Jade Cliffs
+
+//starting buildings:
+centre:banditlair

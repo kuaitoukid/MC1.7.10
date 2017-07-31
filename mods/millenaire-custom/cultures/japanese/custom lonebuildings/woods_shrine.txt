@@ -1,0 +1,54 @@
+name:Yashiro
+weight:5
+radius:10
+biome:extreme hills
+biome:foresthills
+biome:forest
+
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Mountain
+biome:Rainforest
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Tropics
+biome:Wetland
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Maple Woods
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+biome:Highland
+biome:Moor
+biome:Scrubland
+biome:Tundra
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Extreme Hills (New)
+biome:Glacier
+biome:Icy Hills
+biome:Jade Cliffs
+biome:Lush Desert
+biome:Mesa
+biome:Sacred Springs
+
+//starting buildings:
+centre:woods_shrine

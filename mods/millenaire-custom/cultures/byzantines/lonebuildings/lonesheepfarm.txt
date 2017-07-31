@@ -1,0 +1,95 @@
+name:Apomonomeno Boske Probaton
+weight:20
+radius:10
+biome:forest
+biome:plains
+
+//with extrabiomesxl
+biome:green hills
+biome:meadow
+biome:savanna
+biome:shrubland
+
+//biomes o'plenty
+//biome:chaparral
+//biome:heathland
+//biome:orchard
+//biome:scrubland
+//biome:shrubland
+//biome:steppe
+
+biome:Alps
+biome:Arctic
+biome:Badlands
+biome:Bamboo Forest
+biome:Bayou
+biome:Birch Forest
+biome:Bog
+biome:Boreal Forest
+biome:Canyon
+biome:Chaparral
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Crag
+biome:Dead Forest
+biome:Deadlands
+biome:Dead Swamp
+biome:Deciduous Forest
+biome:Drylands
+biome:Dunes
+biome:Fen
+biome:Field
+biome:Frost Forest
+biome:Fungi Forest
+biome:Garden
+biome:Glacier
+biome:Grassland
+biome:Grove
+biome:Heathland
+biome:Highland
+biome:Icy Hills
+biome:Jade Cliffs
+biome:Lush Desert
+biome:Lush Swamp
+biome:Mangrove
+biome:Maple Woods
+biome:Marsh
+biome:Meadow
+biome:Mesa
+biome:Moor
+biome:Mountain
+biome:Mystic Grove
+biome:Oasis
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Outback
+biome:Pasture
+biome:Polar
+biome:Prairie
+biome:Promised Land
+biome:Quagmire
+biome:Rainforest
+biome:Redwood Forest
+biome:Sacred Springs
+biome:Savanna
+biome:Scrubland
+biome:Seasonal Forest
+biome:Shrubland
+biome:Shield
+biome:Snowy Woods
+biome:Spruce Woods
+biome:Steppe
+biome:Swampwoods
+biome:Temperate Rainforest
+biome:Thicket
+biome:Tropical Rainforest
+biome:Tropics
+biome:Tundra
+biome:Volcano
+biome:Wasteland
+biome:Wetland
+biome:Woodland
+
+//starting buildings:
+centre:lonesheepfarm

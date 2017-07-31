@@ -1,0 +1,46 @@
+name:Abbaye isolée
+weight:10
+radius:15
+biome:forest
+
+mindistancefromspawn:1000
+
+//extraBiomes mod
+biome:autumn woods
+
+//biomes o plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Dead Forest
+biome:Dead Forest (Snow)
+biome:Redwood Forest
+biome:Temperate Rainforest
+biome:Thicket
+biome:Wetland
+biome:Bamboo Forest
+biome:Birch Forest
+biome:Boreal Forest
+biome:Cherry Blossom Grove
+biome:Coniferous Forest
+biome:Coniferous Forest (Snow)
+biome:Deciduous Forest
+biome:Fen
+biome:Frost Forest
+biome:Fungi Forest
+biome:Grove
+biome:Hot Springs
+biome:Maple Woods
+biome:Mystic Grove
+biome:Ominous Woods
+biome:Orchard
+biome:Origin Valley
+biome:Seasonal Forest
+biome:Spruce Woods
+biome:Timber
+biome:Tropical Rainforest
+
+namelist:loneabbeys
+
+//starting buildings:
+centre:loneabbey

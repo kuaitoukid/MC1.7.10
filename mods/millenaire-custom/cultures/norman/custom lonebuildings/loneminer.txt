@@ -1,0 +1,28 @@
+name:Mineur solitaire
+weight:10
+radius:10
+biome:extreme hills
+biome:ice mountains
+
+//biomes o plenty
+biome:Mountain
+biome:Rainforest
+biome:Tropics
+biome:Highland
+biome:Moor
+biome:Alps
+biome:Badlands
+biome:Canyon
+biome:Glacier
+biome:Icy Hills
+biome:Lush Desert
+biome:Mesa
+biome:Sacred Springs
+biome:Shield
+biome:Crag
+biome:Volcano
+biome:Scrubland
+biome:Tundra
+
+//starting buildings:
+centre:lonemine
